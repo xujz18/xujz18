@@ -9,7 +9,7 @@ I am Jiazheng Xu, a third-year PhD student in Tsinghua University.
 - 🌱 I'm also honored to work with the team on multimodal foundation models:
   * [CogVLM (NeurIPS'24)](https://github.com/THUDM/CogVLM): a powerful open-source visual language model (VLM), which achieves state-of-the-art performance on 10 classic cross-modal benchmarks.
   * [CogAgent (CVPR'24)](https://github.com/THUDM/CogVLM): a visual agent being able to return a plan, next action, and specific operations with coordinates for any given task on any GUI screenshot, enhancing GUI-related question-answering capabilities.
-  * [CogVideoX](https://github.com/THUDM/CogVideo): a large-scale diffusion transformer models designed for generating videos based on text prompts.
+  * [CogVideoX (ICLR'25)](https://github.com/THUDM/CogVideo): a large-scale diffusion transformer models designed for generating videos based on text prompts.
 - 💬 Feel free to drop me an email for:
   * Any form of collaboration
   * Any issue about my works or code
